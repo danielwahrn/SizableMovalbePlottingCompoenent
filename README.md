@@ -1,2 +1,2 @@
 # SizableMovalbePlottingCompoenent
-<video src="./ice_video_20201130-030616.webm">
+<video src="./ice_video_20201130-030616.webm" />
